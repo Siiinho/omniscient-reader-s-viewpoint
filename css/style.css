@@ -1,0 +1,20 @@
+h1{
+    color: rgb(1, 36, 36);
+    font-family: 'Courier New', Courier, monospace;
+    font: 500;
+    height: 50px 100px 40px;
+    max-height: max-content 50%;
+    text-shadow: 4px 4px 4px;
+    text-shadow: black;
+    text-align: center;
+            }
+.imagem-p{
+text-align: center;
+display: block;
+}
+
+h3{
+text-align: center;
+text-indent: 30px;
+
+}
